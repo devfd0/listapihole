@@ -4,3 +4,4 @@
 0.0.0.0 media.bmcdn5.com
 0.0.0.0 cdn.bmcdn5.com
 0.0.0.0 location-traceroute-sg.bytedance.com
+0.0.0.0 mobile.events.data.microsoft.com
