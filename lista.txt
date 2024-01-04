@@ -5,3 +5,16 @@
 0.0.0.0 mobile.events.data.microsoft.com
 0.0.0.0 cdn.bmcdn5.com
 0.0.0.0 media.bmcdn5.com
+0.0.0.0 tcp-cecotec.3irobotix.net.lan
+0.0.0.0 eu-ota.3irobotix.net
+0.0.0.0 yandex.ru
+0.0.0.0 web-eu.3irobotix.net
+0.0.0.0 cl2.apple.com
+0.0.0.0 x1.c.lencr.org
+0.0.0.0 graph.facebook.com
+0.0.0.0 kidsmanagement-pa.googleapis.com
+0.0.0.0 lightstep.kaizen.nvidia.com
+0.0.0.0 muse-tracker.cze4aggubddvahdg.eastus.azurecontainer.io
+0.0.0.0 y.one.impact-ad.jp
+0.0.0.0 z.moatads.com
+0.0.0.0 x.bidswitch.net
